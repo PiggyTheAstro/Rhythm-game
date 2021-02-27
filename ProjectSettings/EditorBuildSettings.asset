@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu1.unity
+    guid: 42d2b0d4539f9fa449382ef92ed4a66f
+  - enabled: 1
+    path: Assets/Scenes/Wassup.unity
+    guid: 8034d06469f400f48a60b7c4f9d1923c
+  - enabled: 1
+    path: Assets/Scenes/Swaizy.unity
+    guid: dae0c5e1a29e97e41ab2860c2264458e
+  - enabled: 1
+    path: Assets/Scenes/DayOne.unity
+    guid: a3de7b55e985e844a9cc7daeedc33fd9
+  - enabled: 1
+    path: Assets/Scenes/Starringo.unity
+    guid: 8094d339ea9861f449a688d57b02c841
+  - enabled: 1
+    path: Assets/Scenes/Keizer.unity
+    guid: d45c67de25cd2da44ac30cc06376749b
+  - enabled: 1
+    path: Assets/Scenes/Solas.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Selection1.unity
+    guid: 849e55b4311761d44aa5245a1ae2a07e
+  - enabled: 1
+    path: Assets/Scenes/Stats1.unity
+    guid: b82726eb0c1714b42a7d615c2a6e09d6
+  - enabled: 1
+    path: Assets/Scenes/Settings1.unity
+    guid: a99f543e0362e0a4ca1ba11491f39246
+  - enabled: 1
+    path: Assets/Scenes/Procgenned.unity
+    guid: 7750ff6cd51c47c4b837236768df133d
+  - enabled: 1
+    path: Assets/Scenes/LevelEditor1.unity
+    guid: d00008f73acb4cb49a0844d634996047
+  m_configObjects: {}
